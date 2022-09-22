@@ -1,8 +1,8 @@
 <div align = center>
 <h1>GiYeon_Kim</h1>
 <h3>Tech. Stack</h3>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=NodeJSg&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=NodeJSg&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
